@@ -22,4 +22,5 @@ public class FocusOnObject : MonoBehaviour
         focusedObject = focus;
         focusedObject.SetActive(true);
     }
+
 }
